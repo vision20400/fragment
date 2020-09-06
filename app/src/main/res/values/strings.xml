@@ -1,3 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">fragment</string>
+    <string name="app_name">
+        fragment
+    </string>
+    <string-array name="hcArea">
+        <item>국어국문학과</item>
+        <item>일어일문학과</item>
+        <item>불어불문학과</item>
+        <item>노어노문학과</item>
+        <item>중어중문학과</item>
+        <item>영어영문학과</item>
+        <item>독어독문학과</item>
+        <item>한문학과</item>
+        <item>언어정보학과</item>
+        <item>사학과</item>
+        <item>철학과</item>
+        <item>고고학과</item>
+    </string-array>
+    <string-array name="nscArea">
+        <item>수학과</item>
+        <item>통계학과</item>
+        <item>물리학과</item>
+        <item>화학과</item>
+        <item>생명과학과</item>
+        <item>미생물학과</item>
+        <item>분자생물학과</item>
+        <item>지질환경과학과</item>
+        <item>대기환경과학과</item>
+        <item>해양학과</item>
+    </string-array>
+    <string-array name="ecArea">
+        <item>기계공학부</item>
+        <item>고분자공학과</item>
+        <item>유기소재시스템공학과</item>
+        <item>전자공학과</item>
+        <item>조선/해양공학과</item>
+        <item>재료공학부</item>
+        <item>산업공학과</item>
+        <item>항공우주공학과</item>
+        <item>건설융합학부-건축공학전공</item>
+        <item>건설융합학부-건축학전공</item>
+        <item>건설융합학부-도시공학전공</item>
+        <item>건설융합학부-토목공학전공</item>
+        <item>화공생명/환경공학부-화공생명공학전공</item>
+        <item>화공생명/환경공학부-환경공학전공</item>
+        <item>전기공학과</item>
+        <item>전기컴퓨터공학부-정보컴퓨터공학전공</item>
+    </string-array>
+    <string-array name="acArea">
+        <item>제1영역-사상과역사</item>
+        <item>제2영역-사회와문화</item>
+        <item>제3영역-문학과예술</item>
+        <item>제4영역-과학과기술</item>
+        <item>제5영역-건강과레포츠</item>
+        <item>제6영역-외국어</item>
+        <item>제7영역-융복합</item>
+    </string-array>
 </resources>
